@@ -10,18 +10,20 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Mafia Mendes
+- Matricula: 918755
+- Proposta de projeto escolhida: ecomerce online
+- Breve descrição sobre seu projeto: loja online de materiais esportivos
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/8041fadf-7c96-4f44-8503-7d31e5d41727" />
+
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="577" height="1014" alt="image" src="https://github.com/user-attachments/assets/f9e72fe7-0262-41a1-93e8-069a0befb91a" />
+
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
